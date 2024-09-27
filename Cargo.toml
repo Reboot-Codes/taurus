@@ -4,3 +4,9 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+
+# Precision math
+oximath = { git = "https://github.com/Reboot-Codes/oxifluxion" }
+
+# C++ FFI
+cxx = "1.0"
